@@ -1,0 +1,20 @@
+body {font-family:Arial, Sans-Serif;background-color: #fff200;}
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+a {color:#5bc0df; text-decoration:none;}
+a:hover {text-decoration:underline; color: aquamarine;}
+.form{width: 300px; margin: 25px auto; text-align: center;}
+input[type='number'], input[type='fullname'], select[name='Department'], input[type='pss'], select[name='question'], input[type='answer']{width: 300px; border-radius: 2px;border: 1px solid #CCC; padding: 10px; color: #080808; font-size: 14px; margin-top: 10px;}
+input[type='submit']{padding: 10px 25px 8px; color: #101111; background-color: #5bc0df; text-shadow: rgba(0,0,0,0.24) 0 1px 0; font-size: 16px; box-shadow: rgba(255,255,255,0.24) 0 2px 0 0 inset,#fff 0 1px 0 0; border: 1px solid #5bc0df; border-radius: 2px; margin-top: 10px; cursor:pointer;}
+input[type='submit']:hover {background-color: #5bc0df;text-align: right;}
+.error {
+    color: #ff0000;
+    background-color: #ffecec;
+    border: 1px solid #ff5c5c;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    border-radius: 5px;
+}
+
