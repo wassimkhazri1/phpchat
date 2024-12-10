@@ -21,7 +21,7 @@ a {
     margin:0 auto;
     padding-bottom:25px;
     /* background:#EBF4FB; */
-    background:#EBF4FB;
+    background:#b3eb19;
     width:445px;
     border:1px solid #ACD8F0;
     border-radius: 5px;	}
@@ -35,7 +35,8 @@ a {
     margin:0 auto;
     margin-bottom:25px;
     padding:10px;
-    background:#b3eb19;
+    background:#EBF4FB;
+    /* background:#b3eb19; */
     height:270px;
     width:430px;
     border:1px solid #ACD8F0;

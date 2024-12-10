@@ -43,7 +43,7 @@
 <input type="fullname" name="fullname" placeholder="full name" value="<?php echo isset($fullname) ? htmlspecialchars($fullname) : ''; ?>" required/>
 <input type="password" name="password" placeholder="Password" value="<?php echo isset($pss) ? htmlspecialchars($pss) : ''; ?>" required />
 <select name="department" required>
-        <option value="">---CHOOSE---</option>
+        <option value="">---------CHOOSE---------</option>
         <option value="COMPUTER SCIENCE" <?php echo ($Department == "COMPUTER SCIENCE") ? 'selected' : ''; ?>>COMPUTER SCIENCE</option>
         <option value="BIOLOGY" <?php echo ($Department == "BIOLOGY") ? 'selected' : ''; ?>>BIOLOGY</option>
         <option value="SPORTS" <?php echo ($Department == "SPORTS") ? 'selected' : ''; ?>>SPORTS</option>
@@ -78,7 +78,7 @@
 <input type="number" name="username" placeholder="Registration Number" required />
 <input type="fullname" name="fullname" placeholder="full name" required />
 <input type="password" name="password" placeholder="Password" required />
-<select name="department" required>
+    <select name="department" required>
 		<option>---CHOOSE---</option>
         <option>COMPUTER SCIENCE</option>
         <option>BIOLOGY</option>
