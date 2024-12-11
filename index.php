@@ -1,3 +1,6 @@
+<!-- 
+LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
+-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,14 +16,6 @@
 </style>
 </head>
 <body>
-
-    <!-- 
-for more information contact me on the following details;
-email address: wassim_khazri@hotmail.fr
-phone number: +216 52371547
-LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
--->
-
 <div class="form-group">
 <th class="nav"><img src="chat/img/chat.jpg" width="250" height="200"></th>
 <?php

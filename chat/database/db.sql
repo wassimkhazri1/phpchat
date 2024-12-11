@@ -14,10 +14,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `chatchat`
 --
-
 -- --------------------------------------------------------
-
---
 -- Table structure for table `users`
 --
 
@@ -48,3 +45,5 @@ ALTER TABLE `users`
 ALTER TABLE `users`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 COMMIT;
+
+-- LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/

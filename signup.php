@@ -1,3 +1,6 @@
+<!-- 
+LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
+-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -101,12 +104,4 @@
 </body>
 <br><br><br><br>
 <p>Developped by: <a><strong><a href="https://www.linkedin.com/in/wassim-khazri-ab923a14b/" target="_blank">Wassim khazri </strong></p>
-<html>
-    <!-- 
-for more information contact me on the following details;
-email address: wassim_khazri@hotmail.fr
-phone number: +216 52371547
-LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
--->
-</html>
 </html>
