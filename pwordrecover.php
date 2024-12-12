@@ -10,7 +10,7 @@
     </style>
 </head>
 <body>
-<th class="nav"><img src="chat/img/chat.jpg" width="250" height="200"></th>
+<th class="nav"><img src="chat/img/ch.jpg" width="250" height="200"></th>
 <form action="recover.php" method="POST">
 <span style="color: #000000; text-align:center;">-----Registration Number-----</span><br>
 <input type="text" name="username" value="" /><br><br>

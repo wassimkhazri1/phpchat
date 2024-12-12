@@ -11,7 +11,7 @@
 </head>
 <body>
 <div style="text-align:center; margin-top: 50px;">
-<th class="nav"><img src="chat/img/chat.jpg" width="250" height="200"></th>
+<th class="nav"><img src="chat/img/ch.jpg" width="250" height="200"></th>
 <?php
 include('connect.php');
 $dsdas=$_POST['username'];

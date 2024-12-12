@@ -20,7 +20,7 @@ LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
 <body>
 
 <br>
-<th class="nav"><img src="chat/img/chat.jpg" width="200" height="150"></th><br>
+<th class="nav"><img src="chat/img/ch.jpg" width="200" height="150"></th><br>
 <a href="chat/index.php" class="btn btn-primary">CHOOSE ROOM CHAT</a>
 <a href="logout.php" class="btn btn-primary">Log Out</a>
 <br><br>

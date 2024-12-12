@@ -10,7 +10,7 @@ LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
 </head>
 <body>
 <div class="form-group form">
-	<th class="nav" style="text-align:center;"><img src="chat/img/chat.jpg" width="250" height="200"></th>
+	<th class="nav" style="text-align:center;"><img src="chat/img/ch.jpg" width="250" height="200"></th>
 <?php
 	require('db.php');
     if (isset($_POST['username'])){		

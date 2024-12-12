@@ -20,7 +20,7 @@ function loginForm() {
     echo '
     <div class="form-group">
         <div align="center">
-            <img src="img/chat.jpg" width="200" height="150" />
+            <img src="img/ch.jpg" width="200" height="150" />
         </div>
         <br /><br />
         <a href="../choose.php">Go to Home Page</a>

@@ -9,7 +9,9 @@ if (isset($_POST['text']) && isset($_POST['room']) && isset($_POST['name'])) {
 
     $fileName = $room . ".html";
     $cb = fopen($fileName, 'a');
-    fwrite($cb, "<div class='msgln'><b>" . $name . ":</b> " . $text . "<br></div>");
+    date_default_timezone_set('Europe/Paris');
+    $date = date("Y-m-d H:i:s");  // Formate la date (année-mois-jour heure:minute:seconde)
+    fwrite($cb, "<div class='msgln'><b>" . $name . ":</b> " . $text . " <i>[" . $date . "]</i><br></div>");
     fclose($cb);
 }
 ?>

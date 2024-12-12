@@ -1,13 +1,9 @@
-<!-- 
-LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
--->
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 <title>Login</title>
 <link rel="stylesheet" href="css/login.css" />
-<!-- https://code.jquery.com/jquery-3.7.1.min.js -->
 <style>
 
 	body {
@@ -17,7 +13,7 @@ LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
 </head>
 <body>
 <div class="form-group">
-<th class="nav"><img src="chat/img/chat.jpg" width="250" height="200"></th>
+<th class="nav"><img src="chat/img/ch.jpg" width="250" height="200"></th>
 <?php
 	require('db.php');
 	session_start();
@@ -51,7 +47,7 @@ LinkedIn:https://www.linkedin.com/in/wassim-khazri-ab923a14b/
 <input name="submit" type="submit" value="Login" />
 </form>
 <p>Not registered yet? <a href='signup.php'>Signup Here</a></p>
-<p text-align="right">Forgot Password? Click <a href="#" onClick="MyWindow=window.open('pwordrecover.php','MyWindow','toolbar=no,location=no,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=300,height=250'); return false;">Here</a></span></p>
+<p text-align="right">Forgot Password? Click <a href="#" onClick="MyWindow=window.open('pwordrecover.php','MyWindow','toolbar=no,location=no,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=300,height=250'); return false;">Here</a></p>
 </div>
 <?php } ?>
 </body>
